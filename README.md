@@ -43,7 +43,7 @@
 <br>
 
 
-<h2> My GitHub Stats <img src='https://github-readme-stats.vercel.app/api?username=cactidagawd&show_icons=true&theme=dark' width='32px'> </h2>
+<h2> My GitHub Stats <img src='' width='32px'> </h2>
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=cactidagawd&show_icons=true&theme=dark)
 
